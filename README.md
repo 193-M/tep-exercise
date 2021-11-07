@@ -1,4 +1,5 @@
 # git-hub exercise
 
 Hello Git-Hub.
-Hello Git-HUb!
+Hello Git-Hub!
+こんにちは
