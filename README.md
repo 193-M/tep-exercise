@@ -1,1 +1,3 @@
-# github exercise
+# git-hub exercise
+
+Hello Git-Hub.
